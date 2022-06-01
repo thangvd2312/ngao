@@ -277,8 +277,6 @@ body {
   height: 300px;
   justify-content: center;
   align-items: center;
-  /* background-image: url(/static/her-pics/pa-1.jpg); */
-  /* background-color: black; */
   background-color: rgba(255, 255, 255, 0.4);
   background-size: contain;
   background-position: center;
