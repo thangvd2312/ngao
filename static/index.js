@@ -54,7 +54,7 @@
 // }
 
 function initEventListeners() {
-  const paAva = document.querySelector('div.pa-ava');
+  const paAva = document.querySelector('div.tr-ava');
   paAva.addEventListener('click', () => {
     paAva.classList.toggle('changed');
   });

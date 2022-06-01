@@ -39,11 +39,11 @@ body {
   background-color: aliceblue;
 }
 
-.pa-ava-container {
+.tr-ava-container {
   padding: 20px 0;
 }
 
-.pa-ava {
+.tr-ava {
   cursor: pointer;
   background-image: url(/static/doraemon.jpg);
   height: 250px;
@@ -54,8 +54,8 @@ body {
   border-radius: 50%;
 }
 
-.pa-ava.changed {
-  background-image: url(/static/pa-2017.jpg);
+.tr-ava.changed {
+  background-image: url(/static/tn-1.jpg);
 }
 
 .top-banner {
@@ -227,7 +227,7 @@ body {
 }
 
 @media only screen and (min-width: 600px) {
-  .pa-ava {
+  .tr-ava {
     height: 200px;
     width: 200px;
   }
